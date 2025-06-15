@@ -1,0 +1,346 @@
+[
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/font_alegreya_sans.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/font/alegreya_sans.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/layout_activity_credentials.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/layout/activity_credentials.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.mentalhealthapp-pngs-31:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/layout_activity_home_screen.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/layout/activity_home_screen.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/font_montserrat_bold.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/font/montserrat_bold.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/layout_fragment_video.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/layout/fragment_video.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/layout_fragment_privacy.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/layout/fragment_privacy.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_edit_text_bg.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/edit_text_bg.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/font_alegreya_sc.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/font/alegreya_sc.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/layout_activity_reset_password.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/layout/activity_reset_password.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/layout_chat_item.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/layout/chat_item.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_ic_person.png.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/ic_person.png"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.mentalhealthapp-main-38:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/layout_nav_header.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/font_dm_sans_bold.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/font/dm_sans_bold.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/font_pacifico.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/font/pacifico.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_darkpink_rounded_button.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/darkpink_rounded_button.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/layout_fragment_drsuggestion.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/layout/fragment_drsuggestion.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/layout_activity_main.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_user12.png.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/user12.png"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mentalhealthapp-main-38:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_profile_nav_logo.png.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/profile_nav_logo.png"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_gradient_button.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/gradient_button.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_ic_baseline_info_24.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_background_main.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/background_main.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/layout_fragment_home.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/font_dm_sans_medium.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/font/dm_sans_medium.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_ic_account_circle_24.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/ic_account_circle_24.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mentalhealthapp-main-38:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/layout_activity_login.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/layout_activity_splash.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/font_artifika.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/font/artifika.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/font_dm_sans.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/font/dm_sans.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/font_aclonica.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/font/aclonica.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_credential_rounded_button.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/credential_rounded_button.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_ic_send.png.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/ic_send.png"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_curve_box.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/curve_box.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/font_acme.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/font/acme.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mentalhealthapp-main-38:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_stroked.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/stroked.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/font_almendra_bold_italic.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/font/almendra_bold_italic.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_user1.png.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/user1.png"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/layout_progress_button.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/layout/progress_button.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_chat_gpt.png.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/chat_gpt.png"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_user18.png.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/user18.png"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_positive.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/positive.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_doctors.png.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/doctors.png"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_darkgrey_rounded_corner.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/darkgrey_rounded_corner.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_ic_baseline_account_circle_24.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/ic_baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mentalhealthapp-main-38:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.mentalhealthapp-main-38:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/xml_backup_rules.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/font_amarante.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/font/amarante.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_baseline_groups_24.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/baseline_groups_24.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_ic_baseline_supervised_user_circle_24.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/ic_baseline_supervised_user_circle_24.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_doctor.png.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/doctor.png"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/layout_fragment_about_us.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/layout/fragment_about_us.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_ic_logout_24.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/ic_logout_24.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mentalhealthapp-main-38:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/layout_activity_register.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_user14.png.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/user14.png"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_ic_baseline_ondemand_video_24.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/ic_baseline_ondemand_video_24.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_darkpurple_rounded_button.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/darkpurple_rounded_button.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mentalhealthapp-main-38:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.mentalhealthapp-main-38:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/font_new_rocker.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/font/new_rocker.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/layout_fragment_profile.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_logo.png.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/logo.png"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_visibility_off.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/visibility_off.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/menu_sidemenu.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/menu/sidemenu.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.mentalhealthapp-main-38:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_robot.png.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/robot.png"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_doctorsss.png.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/doctorsss.png"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/layout_fragment_avout_app.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/layout/fragment_avout_app.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_back_button_rounded_background.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/back_button_rounded_background.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_visibility.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/visibility.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_ic_lock_24.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/ic_lock_24.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_chatbot.png.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/chatbot.png"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_btn_design_myaccount.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/btn_design_myaccount.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/drawable_ic_baseline_more_vert_24.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/drawable/ic_baseline_more_vert_24.xml"
+    },
+    {
+        "merged": "com.example.mentalhealthapp-merged_res-36:/font_almendra_display.xml.flat",
+        "source": "com.example.mentalhealthapp-main-38:/font/almendra_display.xml"
+    }
+]
