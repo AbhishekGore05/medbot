@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeFragment">
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="200dp"
+            android:src="@drawable/robot"
+            android:layout_gravity="center"
+            android:layout_margin="10dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="MedBot AI Assistant "
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textColor="@color/dark_gray"
+            android:textSize="20dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Medbot is an android application that uses artificial intelligence (AI) and natural language processing (NLP) to provide medical assistance and advice to patients. "
+            android:layout_margin="8dp"
+            android:textSize="16dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Medbot is designed to converse with patients in a way that simulates a conversation with a healthcare professional, providing accurate and relevant medical information in real-time."
+            android:layout_margin="8dp"
+            android:textSize="16dp"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Medbot can help patients by answering questions about symptoms, medications, diagnoses, and treatments, as well as provide general health information and advice. "
+            android:layout_margin="8dp"
+            android:textSize="16dp"
+            />
+
+
+        <Button
+            android:id="@+id/chatopn_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="29dp"
+            android:layout_marginEnd="25dp"
+            android:background="@drawable/btn_design_myaccount"
+            android:text="Let's Chat"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            />
+
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+</FrameLayout>
